@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# exportaciones locales, se generan a partir del notebook
+*.html
+*.pdf
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
